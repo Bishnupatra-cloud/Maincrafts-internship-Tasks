@@ -1,0 +1,39 @@
+<html>
+<head>
+    <title>MainCrafts</title>
+     </head>
+<body>
+<h1>Welcome to MainCrafts</h1>
+<p>Build modern web solutions with us</p>
+
+<button>
+GetStarted
+</button>
+
+<style>
+h1,p{
+    text-align: center;
+}
+
+h1{
+    font-size: 36px;
+    color: #333;
+}
+p{
+    font-size: 18px;
+    color: #666;
+}
+
+
+button{
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white; 
+    padding: 10px 20px; 
+    border-radius: 6px; 
+    text-decoration: none; 
+    font-weight: bold;
+    margin-top: 15px;
+    display:inline-block;
+}
+</body>
+</html>
